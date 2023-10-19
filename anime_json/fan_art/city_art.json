@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "tag": "City art",
+  "tag": "City Art",
   "data": [
     {
       "categoryId": 8468,
@@ -154,6 +154,38 @@
       "avatar": "https://images.animefansbase.com/avatar/a/",
       "video": null,
       "image": "https://github.com/tuannm167/ANIME_WALLPAPER/blob/main/anime_natural/image21.png?raw=true",
+      "postDate": "2020-05-26 11:55:42",
+      "likes": 0,
+      "comment": 0,
+      "totalRepost": 0,
+      "isLiked": false,
+      "isRepost": 0,
+      "commentPreview": null
+    },
+    {
+      "categoryId": 3694,
+      "id": 12778,
+      "username": "@bezzz",
+      "fullName": "Beas",
+      "avatar": "https://images.animefansbase.com/avatar/a/",
+      "video": null,
+      "image": "https://github.com/tuannm167/ANIME_WALLPAPER/blob/main/anime_other/nature-red.jpg?raw=true",
+      "postDate": "2020-08-16 06:53:09",
+      "likes": 0,
+      "comment": 0,
+      "totalRepost": 0,
+      "isLiked": false,
+      "isRepost": 0,
+      "commentPreview": null
+    },
+    {
+      "categoryId": 3287,
+      "id": 10463,
+      "username": "@catastrophe",
+      "fullName": "catastrophe",
+      "avatar": "https://images.animefansbase.com/avatar/a/",
+      "video": null,
+      "image": "https://github.com/tuannm167/ANIME_WALLPAPER/blob/main/anime_other/nice-mountain.jpg?raw=true",
       "postDate": "2020-05-26 11:55:42",
       "likes": 0,
       "comment": 0,

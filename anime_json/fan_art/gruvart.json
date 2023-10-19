@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "tag": "Gruv art",
+  "tag": "Gruv Art",
   "data": [
     {
       "categoryId": 8503,
@@ -154,6 +154,38 @@
       "avatar": "https://images.animefansbase.com/avatar/a/ralex_65380.jpg",
       "video": null,
       "image": "https://github.com/tuannm167/ANIME_WALLPAPER/blob/main/anime_gruv/gruv-staircase.jpg?raw=true",
+      "postDate": "2023-08-21 18:58:50",
+      "likes": 1,
+      "comment": 0,
+      "totalRepost": 0,
+      "isLiked": false,
+      "isRepost": 0,
+      "commentPreview": null
+    },
+    {
+      "categoryId": 8386,
+      "id": 25650,
+      "username": "@ralex_",
+      "fullName": "Robin Alexander",
+      "avatar": "https://images.animefansbase.com/avatar/a/ralex_65380.jpg",
+      "video": null,
+      "image": "https://github.com/tuannm167/ANIME_WALLPAPER/blob/main/anime_gruv/gruv-temple.png?raw=true",
+      "postDate": "2023-08-29 11:35:24",
+      "likes": 2,
+      "comment": 0,
+      "totalRepost": 0,
+      "isLiked": false,
+      "isRepost": 0,
+      "commentPreview": null
+    },
+    {
+      "categoryId": 8362,
+      "id": 25569,
+      "username": "@ralex_",
+      "fullName": "Robin Alexander",
+      "avatar": "https://images.animefansbase.com/avatar/a/ralex_65380.jpg",
+      "video": null,
+      "image": "https://github.com/tuannm167/ANIME_WALLPAPER/blob/main/anime_gruv/gruv.jpg?raw=true",
       "postDate": "2023-08-21 18:58:50",
       "likes": 1,
       "comment": 0,

@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "tag": "Natural art",
+  "tag": "Natural Art",
   "data": [
     {
       "categoryId": 8469,
@@ -154,6 +154,38 @@
       "avatar": "https://images.animefansbase.com/avatar/a/blades_ofagony48934.jpg",
       "video": null,
       "image": "https://github.com/tuannm167/ANIME_WALLPAPER/blob/main/anime_natural/image16.png?raw=true",
+      "postDate": null,
+      "likes": null,
+      "comment": null,
+      "totalRepost": null,
+      "isLiked": false,
+      "isRepost": 0,
+      "commentPreview": null
+    },
+    {
+      "categoryId": 705,
+      "id": null,
+      "username": "@blades_ofagony",
+      "fullName": "Aniket",
+      "avatar": "https://images.animefansbase.com/avatar/a/blades_ofagony48934.jpg",
+      "video": null,
+      "image": "https://github.com/tuannm167/ANIME_WALLPAPER/blob/main/anime_other/mountain-place-1.jpg?raw=true",
+      "postDate": null,
+      "likes": null,
+      "comment": null,
+      "totalRepost": null,
+      "isLiked": false,
+      "isRepost": 0,
+      "commentPreview": null
+    },
+    {
+      "categoryId": 88,
+      "id": null,
+      "username": "@blades_ofagony",
+      "fullName": "Aniket",
+      "avatar": "https://images.animefansbase.com/avatar/a/blades_ofagony48934.jpg",
+      "video": null,
+      "image": "https://github.com/tuannm167/ANIME_WALLPAPER/blob/main/anime_other/mountain-place-2.jpg?raw=true",
       "postDate": null,
       "likes": null,
       "comment": null,
